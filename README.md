@@ -26,11 +26,11 @@ Modeling with python using Jupiter
 Algorithms 
 
 ### More project in : 
+
 In youtube :
 https://youtube.com/channel/uc4-tkidosiixbk1x9tgeo-g
 
 In Tableau :
-
 https://public.tableau.com/app/profile/jehad.magdy
 
 
