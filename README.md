@@ -1,7 +1,10 @@
 
 
-                                  👋 Hey everyone, I'm Jehad Magdy 👋 
+                                  👋 Hey everyone, I'm Jehad Magdy👋 
+                                 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) 
 ------------------------------------------------------------------------------------------------------------
+
 
 - 👀 I’m interested in machine learning and deep learning 
 - 🌱 I’m currently learning Data Analysis & Data science
@@ -11,7 +14,7 @@
  
 ⚡ Fun fact I think I'm fun in jokes  🐸
 
-### Language : 
+### Language :
 
 Python, C++ 
 
@@ -26,6 +29,7 @@ ______________________________________________
 SQL, Hadoop ,Firebase
 
 ______________________________________________
+
 
 ### AI/ML  : 
 
