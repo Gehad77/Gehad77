@@ -1,7 +1,7 @@
 
 
-   ### 👋 Hey everyone, I'm Jehad Magdy 👋
-
+                                  👋 Hey everyone, I'm Jehad Magdy 👋 
+------------------------------------------------------------------------------------------------------------
 
 - 👀 I’m interested in machine learning and deep learning 
 - 🌱 I’m currently learning Data Analysis & Data science
@@ -12,18 +12,27 @@
 ⚡ Fun fact I think I'm fun in jokes  🐸
 
 ### Language : 
+
 Python, C++ 
+
+______________________________________________
 
 ### Tools using in data visualization : 
 Power bi,  Tableau, Excel 
 
+______________________________________________
+
 ### Database : 
 SQL, Hadoop ,Firebase
 
-### AI/ML : 
+______________________________________________
+
+### AI/ML  : 
 
 Modeling with python using Jupiter 
 Algorithms 
+
+___________________________
 
 ### More project in : 
 
