@@ -2,7 +2,6 @@
 
                                   👋 Hey everyone, I'm Jehad Magdy👋 
                                  
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) 
 ------------------------------------------------------------------------------------------------------------
 
 
