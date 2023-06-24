@@ -1,22 +1,26 @@
 
 
                                   👋 Hey everyone, I'm Jehad Magdy👋 
-   ### Data science | Data Analyst 
+   ### Data science 
                                  
 ------------------------------------------------------------------------------------------------------------
 ### 💁About my 
 
-- 👀 I’m interested in machine learning and deep learning 
-- 🌱 Data Analysis & Data science
+- 👀 I’m interested in NLP 
+- 🌱 Data science
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me (  Jehadmagdysabry@gmail.com ) 
-- 📄 Know about my experiences ( https://drive.google.com/file/d/1B-PZ0dQhzypzCTq4E_aOr3lwHF9kGjJN/view?usp=drivesdk)
+- 📄 Know about my experiences (https://www.linkedin.com/in/jehad-magdy)
  
 ⚡ Fun fact I think I'm fun in jokes  🐸
 
 ### Language :
 
-Python, C++ 
+Python, C++ , Java script
+
+### Frame work :
+
+Flask , HTML , CSS
 
 ______________________________________________
 
@@ -33,10 +37,10 @@ ______________________________________________
 
 ### AI/ML  : 
 
-Modeling with python using Jupiter 
+Modeling with python using JupyterLab
 Algorithms 
 
-___________________________
+______________________________________________
 
 ### More project in : 
 
@@ -45,6 +49,13 @@ https://youtube.com/channel/uc4-tkidosiixbk1x9tgeo-g
 
 In Tableau :
 https://public.tableau.com/app/profile/jehad.magdy
+
+______________________________________________
+
+### publish artical 
+
+In Medium :
+https://medium.com/@jehadmagdy2
 
 
 <!---
