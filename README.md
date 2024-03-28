@@ -30,7 +30,7 @@ Power bi,  Tableau, Excel
 ______________________________________________
 
 ### Database : 
-SQL, Hadoop ,Firebase
+SQL, Hadoop ,Firebase, Azure, AWS, mango
 
 ______________________________________________
 
