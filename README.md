@@ -10,7 +10,7 @@
 - 🌱 Data science
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me (  Jehadmagdysabry@gmail.com ) 
-- 📄 Know about my experiences (https://www.linkedin.com/in/jehad-magdy)
+- 📄 Know about my experiences (https://www.linkedin.com/in/jehad-magdy-0ba254338)
  
 ⚡ Fun fact I think I'm fun in jokes  🐸
 
